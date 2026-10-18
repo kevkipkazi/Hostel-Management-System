@@ -20,6 +20,9 @@ After seeding the database, use these accounts:
 - Hostel Manager: manager@hostelms.test / password123
 - Finance Officer: finance@hostelms.test / password123
 
+Screenshot from 2026-10-18 16-01-42.png
+
+
 ## Local setup
 
 1. Install PHP 8.3+, Composer, Node.js, and a local database engine.
