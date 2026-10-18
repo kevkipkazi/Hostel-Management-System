@@ -21,8 +21,10 @@ After seeding the database, use these accounts:
 - Finance Officer: finance@hostelms.test / password123
 
 ![Hostel Management System](Screenshot%20from%202026-10-18%2016-01-42.png)
-## Local setup
+![Hostel Management System](Screenshot%20from%202026-10-18%2016-00-36.png)
+![Hostel Management System](Screenshot%20from%202026-10-18%2016-00-54.png)
 
+Screenshot from 2026-10-18 16-00-54.png
 1. Install PHP 8.3+, Composer, Node.js, and a local database engine.
 2. Clone the project and install dependencies:
 
