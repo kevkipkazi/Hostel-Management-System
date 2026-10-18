@@ -20,8 +20,7 @@ After seeding the database, use these accounts:
 - Hostel Manager: manager@hostelms.test / password123
 - Finance Officer: finance@hostelms.test / password123
 
-Screenshot from 2026-10-18 16-01-42.png
-
+https://github.com/kevkipkazi/Hostel-Management-System/blob/9a2e63379552d1388120e0236122efe603a08ec8/Screenshot%20from%202026-10-18%2016-01-42.png
 
 ## Local setup
 
